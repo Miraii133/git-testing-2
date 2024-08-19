@@ -2,8 +2,7 @@
 const Button = () => {
     return (
     <button>
-        Pretend I have implemented
-        something
+        Let us pretend this is already implemented
     </button>
     )
     

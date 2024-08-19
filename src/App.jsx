@@ -1,5 +1,4 @@
 import './App.css'
-import Button from './components/ui/Button'
 
 function App() {
 
@@ -7,7 +6,7 @@ function App() {
     <>
       <div>
           
-          <Button/>
+          <p>Hello</p>
       </div>
     </>
   )
