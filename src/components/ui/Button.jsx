@@ -2,7 +2,7 @@
 const Button = () => {
     return (
     <button>
-        some changes
+        HELLO WORLD
     </button>
     )
     
