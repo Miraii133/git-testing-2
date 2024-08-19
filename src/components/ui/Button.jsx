@@ -2,7 +2,8 @@
 const Button = () => {
     return (
     <button>
-        I am a button that does things and definitely has props
+        Pretend I have implemented
+        something
     </button>
     )
     
